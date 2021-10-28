@@ -1,0 +1,78 @@
+/* selector{
+    Property: value;
+} */
+*{
+    text-align: right;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySE_PukNtMiAy0Ro3xBxqj_dlV7T9rl7xQg&usqp=CAU.jpg);
+    background-size: cover;
+}
+h1{
+    color: rgb(72, 72, 124);
+    text-align: center;
+    border: 6px solid purple;
+    
+   
+}
+
+p{
+    color: rgb(216, 41, 193);
+}
+h2{ 
+    color: rgb(19, 15, 19);
+}
+
+
+li {
+    list-style: none;
+    display: flexbox;
+    text-align:center;
+    border: 0.10px solid purple;
+    
+    
+}
+
+#div1 {
+    text-align: center;
+    background:rgb(139, 100, 134);
+    
+    
+}
+
+
+#div2 {
+    text-align: center;
+    background: rgb(90, 90, 206);
+    
+}
+
+.boxmodel{
+    border: 6px solid rgb(90, 88, 88);
+    
+   
+}
+
+p{
+    border: 6px solid rgb( 90,88,88);
+    
+}
+
+.zone{
+    color:rgb(255, 121, 121);
+    text-align: center;
+    font-style: oblique;
+}
+
+span{
+    font-size:2em ;
+}
+
+h2{
+    color: black;
+    margin-right: 300px;
+}
+
+
+
